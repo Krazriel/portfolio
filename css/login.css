@@ -10,7 +10,7 @@
     right: 0px;
     left: 0px;
     bottom: 0px;
-    background: linear-gradient(45deg, rgb(131, 0, 253), rgb(255, 0, 221));
+    background: linear-gradient(45deg, rgb(105, 105, 105), rgb(255, 0, 0));
 }
 
 .loginBox{
@@ -45,7 +45,7 @@
 
 .loginBtn{
     font-family: 'Courier New', Courier, monospace;
-    background: linear-gradient(45deg, rgb(131, 0, 253), rgb(255, 0, 221));
+    background: linear-gradient(45deg, rgb(105, 105, 105), rgb(255, 0, 0));
     border-style: none;
     margin-top: 0px;
     margin-bottom: 20px;
