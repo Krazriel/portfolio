@@ -85,8 +85,28 @@ body{
     border-radius: 30px;
 }
 
-.summaryTitle, .educationTitle{
+.infoSection3{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+.projects{
+    width: 500px;
+    background-color: black;
+    opacity: 0.3;
+    color: white;
+    border-radius: 30px;
+    padding-left: 10px;
+    margin-bottom: 100px;
+}
+
+.summaryTitle, .educationTitle, .sectionTitle{
     text-decoration: underline;
+}
+
+.sectionTitle{
+    text-align: center;
 }
 
 .educationDesc{
@@ -96,7 +116,6 @@ body{
 .eduDate{
     margin-top: 0px;
 }
-
 
 @media screen and (max-width: 1200px) {
 
